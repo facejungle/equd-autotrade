@@ -1,1 +1,3 @@
-#Backend and also frontend for auto-trading
+# Equd autotrade
+
+## Backend and also frontend for auto-trading
